@@ -12,7 +12,7 @@ This README File will give you a brief introduction to the project. It is well s
 - [How to reach us](url)
 
 
-**Who are we?**
+[**Who are we?**](url)
 
 We are bioinformaticians who have already equipped with bioinformatics skills.
 
