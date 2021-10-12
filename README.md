@@ -5,11 +5,11 @@
 Thank you for visiting this repository
 This README File will give you a brief introduction to the project. It is well subdivided into these sections:
 
-- Who are we?
-- What are we doing?
-- What do we need?
-- How can you get involved?
-- How to reach us
+- [Who are we?](url)
+- [What are we doing?](url)
+- [What do we need?](url)
+- [How can you get involved?](url)
+- [How to reach us](url)
 
 
 **Who are we?**
