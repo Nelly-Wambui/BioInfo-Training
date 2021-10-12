@@ -22,7 +22,8 @@ We are bioinformaticians who have already equipped with bioinformatics skills.
 
 ~~~
 Bioinformatics is quickly becoming a very important skill in the research world. 
-We are offering training on bioinformatics to help keep our research scientists equipped with tools to analyze the large data they get to encounter.
+We are offering training on bioinformatics to help keep our research scientists equipped with tools 
+to analyze the large data they get to encounter.
 ~~~
 
 **What do we need?**
