@@ -12,27 +12,39 @@ This README File will give you a brief introduction to the project. It is well s
 - [How to reach us](url)
 
 
-[**Who are we?**](url)
+**Who are we?**
+~~~
 
 We are bioinformaticians who have already equipped with bioinformatics skills.
+~~~
 
 **What are we doing?**
 
-Bioinformatics is quickly becoming a very important skill in the research world. We are offering training on bioinformatics to help keep our research scientists equipped with tools to analyze the large data they get to encounter.
+~~~
+Bioinformatics is quickly becoming a very important skill in the research world. 
+We are offering training on bioinformatics to help keep our research scientists equipped with tools to analyze the large data they get to encounter.
+~~~
 
 **What do we need?**
 
+~~~
 We need students who are enthusiastic and ready to learn to be bioinformaticians. 
-
+~~~
 **How can you get involved?**
 
+~~~
 You can share this information and you can also join us.
+~~~
 
 **How to reach us**
 
+~~~
 You can get to us through this GitHub repository and we will promptly respond.
+~~~
 
-**THANK YOU :)**
+![**THANK YOU :)**](https://upload.wikimedia.org/wikipedia/commons/0/04/Thank-you-transparent.svg)
+
+***
 
 **Glossary**
 
