@@ -1,6 +1,6 @@
 # BioInfo-Training
 ### WELCOME!!!!!!
-**Tools of Computational Biology to the World**
+#### Tools of Computational Biology to the World**
 
 Thank you for visiting this repository
 This README File will give you a brief introduction to the project. It is well subdivided into these sections:
